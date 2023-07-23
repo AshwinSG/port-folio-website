@@ -73,3 +73,18 @@ a:hover {
 }
 
 /* Additional styles for specific sections or elements can be added here */
+
+/* Style the button */
+button {
+  background-color: #f5deb3; /* Creme color */
+  border: none;
+  color: #333;
+  padding: 10px 20px;
+  border-radius: 5px; /* Add rounded border */
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #e0cfaa; /* Lighter creme color on hover */
+}
